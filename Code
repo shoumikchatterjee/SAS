@@ -1,0 +1,9 @@
+DATA dataset;
+INPUT x, y, z;
+RUN;
+
+PROC procname;
+RUN;
+
+PROC PRINT DATA = dataset;
+RUN;
