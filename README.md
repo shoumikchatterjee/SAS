@@ -5,4 +5,5 @@ ABOUT:
 # The regression parameters will determine whether the number of deaths per 100,000 across other countries may be correctly inferred.
 
 FEATURES:
-# Demonstrates ability to define variables and set up data set, run a built-in procedure, and output results.
+# demonstrates ability to define variables and set up data set 
+# demonstrates ability to run a built-in procedure and output results.
